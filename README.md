@@ -1,6 +1,7 @@
 # 🤖 AgentOps: Trajectory-Aware Self-Correction Engine
 
 [![Live App](https://img.shields.io/badge/Streamlit-Live%20Demo-red?logo=streamlit)](https://agentops-trajectory-guard.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20Demo-red?logo=streamlit)](https://agentops-trajectory-guard.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,7 +9,6 @@ An advanced, production-grade [AgentOps Dashboard](https://agentops-trajectory-g
 
 ---
 
-## 🏗️ System Architecture & Workflow
 
 ```mermaid
 graph TD
@@ -34,6 +34,8 @@ Precision-Protected Optimization: Utilizes a custom-tuned HistGradientBoosting c
 Automated Self-Correction Policy Engine: Maps predictive failure risks directly to structural interventions, cutting wasted token spend by over 60%.
 
 Interactive Streamlit Dashboard: A real-time monitoring interface equipped with telemetry simulation sliders, dynamic risk gauges, and instant intervention alerts.
+
+
 
 🛠️ Tech Stack
 Machine Learning: scikit-learn (HistGradientBoosting, Pipelines, ColumnTransformers, Precision-Recall Tuning)

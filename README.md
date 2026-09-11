@@ -10,7 +10,7 @@ An advanced, production-grade [AgentOps Dashboard](https://agentops-trajectory-g
 ---
 
 
-```mermaid
+
 graph TD
     A[Live Agent Telemetry] -->|Raw Metrics Stream| B(On-the-Fly Feature Engineering)
     B -->|Drift Ratios & Density| C{Trained ML Pipeline}
